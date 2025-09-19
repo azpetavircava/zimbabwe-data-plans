@@ -60,3 +60,29 @@ layout: default
 ## 相关指南
 
 - [Zimbabwe SIM 卡购买与激活指南](https://faciylike.github.io/zimbabwe-sim-guides)
+
+<!-- BEGIN_ZIMBABWE_FAQ -->
+## FAQ
+
+### 津巴布韦上网卡/流量卡10GB大概多少钱？
+以门店标价为准，常见为30天周期；具体价格按现场公示为准，重度使用可选择更高档位或叠加包。
+
+### 津巴布韦流量卡是否限速或达量降速（FUP）？
+部分套餐存在峰值速率或达量降速，细则以门店公示与小票为准；重度使用建议选择更高档位。
+
+### 津巴布韦上网卡如何设置APN才能上网？
+在蜂窝网络中新建接入点（APN），保存后重启或切换飞行模式；如不清楚可到门店协助设置。
+
+### 津巴布韦流量卡可以开热点共享吗？
+多数上网卡支持热点共享，但个别低价包会限制共享或限速；购买时确认“热点共享/流量共享”是否受限。
+
+### 津巴布韦上网更稳定的运营商怎么选？
+市区主流运营商数据覆盖较稳，山区与边远地区可能仅2G；行程含山区可优先覆盖更广的运营商，门店测速后再充值。
+
+### 津巴布韦流量卡购买与使用步骤是什么？
+门店出示护照办理→装卡→开通套餐→设置APN→重启与测速；如无网，检查流量开关与APN拼写。需远程协助可联系 ✈ [@esim1088](https://t.me/s/esim1088)。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "津巴布韦上网卡/流量卡10GB大概多少钱？", "acceptedAnswer": {"@type": "Answer", "text": "以门店标价为准，常见为30天周期；具体价格按现场公示为准，重度使用可选择更高档位或叠加包。"}}, {"@type": "Question", "name": "津巴布韦流量卡是否限速或达量降速（FUP）？", "acceptedAnswer": {"@type": "Answer", "text": "部分套餐存在峰值速率或达量降速，细则以门店公示与小票为准；重度使用建议选择更高档位。"}}, {"@type": "Question", "name": "津巴布韦上网卡如何设置APN才能上网？", "acceptedAnswer": {"@type": "Answer", "text": "在蜂窝网络中新建接入点（APN），保存后重启或切换飞行模式；如不清楚可到门店协助设置。"}}, {"@type": "Question", "name": "津巴布韦流量卡可以开热点共享吗？", "acceptedAnswer": {"@type": "Answer", "text": "多数上网卡支持热点共享，但个别低价包会限制共享或限速；购买时确认“热点共享/流量共享”是否受限。"}}, {"@type": "Question", "name": "津巴布韦上网更稳定的运营商怎么选？", "acceptedAnswer": {"@type": "Answer", "text": "市区主流运营商数据覆盖较稳，山区与边远地区可能仅2G；行程含山区可优先覆盖更广的运营商，门店测速后再充值。"}}, {"@type": "Question", "name": "津巴布韦流量卡购买与使用步骤是什么？", "acceptedAnswer": {"@type": "Answer", "text": "门店出示护照办理→装卡→开通套餐→设置APN→重启与测速；如无网，检查流量开关与APN拼写。需远程协助可联系 ✈ @esim1088。"}}]}
+</script>
+<!-- END_ZIMBABWE_FAQ -->
